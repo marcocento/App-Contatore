@@ -1,3 +1,6 @@
+## Link Applicazione
+https://earnest-sorbet-de9b00.netlify.app/
+
 # App-Contatore
 Benvenuto! Questa è un'applicazione contatore che ti consente semplicemtne di aumentare o diminuire il valore del contatore con un tocco.
 # Applicazione Contatore
@@ -36,4 +39,6 @@ Alcune possibili aree di miglioramento per il progetto includono:
 - Aggiunta di funzionalità avanzate, come un pulsante di reset del contatore.
 - Miglioramento dell'aspetto visivo e dell'esperienza utente.
 
+## Link Applicazione
+https://earnest-sorbet-de9b00.netlify.app/
 
