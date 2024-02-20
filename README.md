@@ -26,6 +26,6 @@ L'App Contatore è stata realizzata utilizzando le seguenti tecnologie:
 1. Clona il repository sul tuo computer:
 
 ```bash
-Link https://earnest-sorbet-de9b00.netlify.app/
+https://earnest-sorbet-de9b00.netlify.app/
 
 
