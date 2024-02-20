@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Contatore</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" type="image/png" href="css/favicon.png">
+
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -17,14 +19,7 @@
         <main>
             <p class="description">Benvenuto! Questa è un'applicazione contatore che ti consente semplicemente di aumentare o diminuire il valore del contatore con un tocco.</p>
             
-            <div class="counter-container">
-                <div id="counterDisplay" class="counter">0</div>
-            </div>
-            
-            <div class="buttons">
-                <button id="decrementBtn" class="round-button">-</button>
-                <button id="incrementBtn" class="round-button">+</button>
-            </div>
+            <div id="counterContainer" class="counter-container"></div>
         </main>
         
         <footer>
@@ -35,4 +30,3 @@
     <script src="js/app.js"></script>
 </body>
 </html>
-
